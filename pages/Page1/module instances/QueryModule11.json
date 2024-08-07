@@ -6,9 +6,17 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "input2"
+      },
+      {
+        "key": "input1"
+      }
+    ],
     "inputs": {
-      "input1": "{{pod_bug_chart.selectedDataPoint?.x}}",
-      "input2": "{{moment().add(-6,'months').format(\"YYYY-MM-DD\")}}",
+      "input1": "{{pod_bug_chart.selectedDataPoint?.abc}}",
+      "input2": "{{moment().add(-643,'months').format(\"YYYY-MM-DD\")}}",
       "limit": "23"
     },
     "moduleInputs": {
