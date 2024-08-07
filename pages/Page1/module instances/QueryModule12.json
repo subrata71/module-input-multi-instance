@@ -6,6 +6,14 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "input1"
+      },
+      {
+        "key": "input2"
+      }
+    ],
     "inputs": {
       "input1": "{{moment().add(-6,'months').format(\"YYYY-MM-DD\")}}",
       "input2": "{{moment().add(-6,'months').format(\"YYYY-MM-DD\")}}",
