@@ -20,9 +20,27 @@
       "limit": "23"
     },
     "moduleInputs": {
-      "pqbfvvgrip": {},
-      "qndoqxrlrg": {},
-      "syidndwilf": {}
+      "pqbfvvgrip": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "23",
+        "id": "pqbfvvgrip",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      },
+      "qndoqxrlrg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "world",
+        "id": "qndoqxrlrg",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
+      "syidndwilf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "hello",
+        "id": "syidndwilf",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
     },
     "name": "QueryModule12",
     "pageId": "Page1",
