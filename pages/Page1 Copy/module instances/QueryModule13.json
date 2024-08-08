@@ -1,16 +1,11 @@
 {
-  "gitSyncId": "66b5171738ad0007d4c1801f_33529e87-7458-4a02-96c0-ea851bb0b4b7",
-  "id": "Page1_QueryModule13",
+  "gitSyncId": "66b5171738ad0007d4c1801f_3720c263-8347-40b2-bfed-c658d1de353e",
+  "id": "Page1 Copy_QueryModule13",
   "moduleUUID": "24c5816a-2be6-45a4-abbe-339ea6ae678c",
   "packageUUID": "0c88d473-a218-447e-8380-ca68f386efbd",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [
-      {
-        "key": "limit"
-      }
-    ],
     "inputs": {
       "input1": "democracy",
       "input2": "world",
@@ -40,7 +35,7 @@
       }
     },
     "name": "QueryModule13",
-    "pageId": "Page1",
+    "pageId": "Page1 Copy",
     "version": "0.0.1"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "66b5171738ad0007d4c1801f_33529e87-7458-4a02-96c0-ea851bb0b4b7",
-  "id": "Page1_QueryModule13",
+  "gitSyncId": "66b5171738ad0007d4c1801f_0a53ace0-62a2-4b40-8e5e-a3870571389d",
+  "id": "Page1 Copy1_QueryModule13",
   "moduleUUID": "24c5816a-2be6-45a4-abbe-339ea6ae678c",
   "packageUUID": "0c88d473-a218-447e-8380-ca68f386efbd",
   "type": "QUERY_MODULE",
@@ -14,7 +14,7 @@
     "inputs": {
       "input1": "democracy",
       "input2": "world",
-      "limit": "{{Input1.text}}"
+      "limit": "{{Input1V1.text}}"
     },
     "moduleInputs": {
       "pqbfvvgrip": {
@@ -40,7 +40,7 @@
       }
     },
     "name": "QueryModule13",
-    "pageId": "Page1",
+    "pageId": "Page1 Copy1",
     "version": "0.0.1"
   }
 }
